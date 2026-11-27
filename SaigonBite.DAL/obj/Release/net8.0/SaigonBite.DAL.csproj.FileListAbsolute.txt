@@ -1,0 +1,15 @@
+C:\-_-\CuoiKyCNPM\Part3\demo\SaigonBite.DAL\bin\Release\net8.0\SaigonBite.DAL.deps.json
+C:\-_-\CuoiKyCNPM\Part3\demo\SaigonBite.DAL\bin\Release\net8.0\SaigonBite.DAL.dll
+C:\-_-\CuoiKyCNPM\Part3\demo\SaigonBite.DAL\bin\Release\net8.0\SaigonBite.DAL.pdb
+C:\-_-\CuoiKyCNPM\Part3\demo\SaigonBite.DAL\bin\Release\net8.0\SaigonBite.Models.dll
+C:\-_-\CuoiKyCNPM\Part3\demo\SaigonBite.DAL\bin\Release\net8.0\SaigonBite.Models.pdb
+C:\-_-\CuoiKyCNPM\Part3\demo\SaigonBite.DAL\obj\Release\net8.0\SaigonBite.DAL.csproj.AssemblyReference.cache
+C:\-_-\CuoiKyCNPM\Part3\demo\SaigonBite.DAL\obj\Release\net8.0\SaigonBite.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\-_-\CuoiKyCNPM\Part3\demo\SaigonBite.DAL\obj\Release\net8.0\SaigonBite.DAL.AssemblyInfoInputs.cache
+C:\-_-\CuoiKyCNPM\Part3\demo\SaigonBite.DAL\obj\Release\net8.0\SaigonBite.DAL.AssemblyInfo.cs
+C:\-_-\CuoiKyCNPM\Part3\demo\SaigonBite.DAL\obj\Release\net8.0\SaigonBite.DAL.csproj.CoreCompileInputs.cache
+C:\-_-\CuoiKyCNPM\Part3\demo\SaigonBite.DAL\obj\Release\net8.0\SaigonBi.373BA33F.Up2Date
+C:\-_-\CuoiKyCNPM\Part3\demo\SaigonBite.DAL\obj\Release\net8.0\SaigonBite.DAL.dll
+C:\-_-\CuoiKyCNPM\Part3\demo\SaigonBite.DAL\obj\Release\net8.0\refint\SaigonBite.DAL.dll
+C:\-_-\CuoiKyCNPM\Part3\demo\SaigonBite.DAL\obj\Release\net8.0\SaigonBite.DAL.pdb
+C:\-_-\CuoiKyCNPM\Part3\demo\SaigonBite.DAL\obj\Release\net8.0\ref\SaigonBite.DAL.dll
